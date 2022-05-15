@@ -1,6 +1,6 @@
 ## Prerequisites for project...122
 - JDK 1.8 or later
-- Maven 3 or later
+- Maven 3 or later1234556
 - MySQL 5.6 or later
 
 ## Technologies 123
